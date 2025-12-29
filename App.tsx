@@ -35,7 +35,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-xs font-semibold tracking-wide uppercase border border-blue-100">
-              Grad School Candidate • First Class Honors
+              Graduate School Candidate • First Class Honors
             </div>
             <h1 className="text-5xl md:text-7xl font-bold text-slate-900 leading-tight">
               Designing Tech for <span className="text-blue-600">Human Impact</span>.
@@ -73,7 +73,7 @@ const App: React.FC = () => {
                   <div className="flex items-center gap-4 mb-4">
                     <GraduationCap className="text-blue-600" size={32} />
                     <div>
-                      <h3 className="font-bold text-lg">BSc. Computer Science</h3>
+                      <h3 className="font-bold text-lg">BSc. Computer Science & Engineering</h3>
                       <p className="text-sm text-slate-500">UMaT, Ghana</p>
                     </div>
                   </div>
